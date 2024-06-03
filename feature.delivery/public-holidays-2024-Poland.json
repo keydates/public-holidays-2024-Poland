@@ -1,0 +1,71 @@
+{
+  "product": "Poland Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-14T12:00:00",
+      "endDate": "2024-04-14T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2024",
+      "style": "purple",
+      "description": "Celebration of the resurrection of Jesus"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2024",
+      "style": "teal",
+      "description": "International worker's day"
+    },
+    {
+      "title": "Constitution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-03T12:00:00",
+      "endDate": "2024-05-03T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2024",
+      "style": "green",
+      "description": "Commemorates the constitution of May 3, 1791"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus"
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-26T12:00:00",
+      "endDate": "2024-12-26T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2024",
+      "style": "blue",
+      "description": "Traditional day for giving gifts to the less fortunate"
+    }
+  ]
+}
